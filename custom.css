@@ -1,0 +1,141 @@
+/* All your custom styles go here. You can override the default Bootstrap styles or add your own custom styles for elements, classes, or IDs.  */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body {
+    background-color: #CFD8DC;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.b2 {
+    background-color: #571a44 !important;
+    color: white;
+}
+
+.b2:hover {
+    background-color: #cbb9c7 !important;
+    color: black;
+}
+
+.image {
+    width: 80%;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    margin-bottom: 3% !important;
+}
+
+.banner {
+    width: 100%;
+}
+
+.bg1 {
+    background-color: #f5f1eb !important;
+    color: black;
+    padding: 1%;
+}
+
+.vert {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.bg2 {
+    background-color: #607D8B !important;
+    padding: 1%
+}
+
+.bg1 {
+    background-color: #455A64 !important;
+}
+
+sidebar {
+    padding: 3%;
+    margin-top: 1%;
+}
+
+.fontblack {
+    color: black;
+}
+
+.fontwhite {
+    color: white !important;
+}
+
+.test {
+    background-color: black !important;
+}
+
+
+.b8 {
+    background-color: #eee7ec !important;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.container-fluid {
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+    width: 98%;
+    margin-top: 2%;
+}
+
+header {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.al {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+    color: white;
+}
+
+.card-title {
+    text-align: center;
+    color: white;
+}
+
+.al {
+    text-align: center !important;
+}
+
+.left-text {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #757575;
+    padding-bottom: 3% !important;
+}
+
+header {
+    position: relative;
+    top: -10px;
+}
+
+.ic {
+    width: 100%;
+    display: inline-block;
+}
+
+.cont {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+
+.nav-link:hover {
+    font-weight: bold !important;
+    box-shadow: 1px 1px 3px 3px white !important;
+}
+
+.pad {
+    padding: 0% !important;
+}
